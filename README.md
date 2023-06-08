@@ -1,3 +1,5 @@
+I am an undergraduate at Indian Institute of Science
+
 ## Education
 
 * **Indian Institute of Science**, Bengaluru - Bachelor of Science (Research) in Physics: 2020-2024 (expected)
