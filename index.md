@@ -14,3 +14,7 @@ I am an undergraduate at Indian Institute of Science
 * Theoretical and Computational Astrophysics
 * Theoretical High Energy Physics
 * High-Energy Astrophysics
+* Cosmology
+
+## Works
+
