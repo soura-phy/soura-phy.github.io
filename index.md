@@ -1,13 +1,13 @@
-I am an undergraduate at Indian Institute of Science
+I am an undergraduate student at Indian Institute of Science, with interest in research in physics.
 
 ## Education
 
 * **Indian Institute of Science**, Bengaluru - Bachelor of Science (Research) in Physics: 2020-2024 (expected)
 
-## Internships
+## Projects
 
-* Solid State and Structural Chemistry Unit, Indian Institute of Science - May 2021 to May 2024
-* Research School of Astronomy and Astrophysics, Australian National University - May 2023 to July 2023
+* ***Non-adiabatic wave propagation in dimer***. Supervisor: _Dr. Vivek Tiwari_, Solid State and Structural Chemistry Unit, Indian Institute of Science. Duration: May 2021 to May 2024
+* ***Dark matter decay and Positron annihilation in the Interstellar Medium***. Supervisor: _Prof. Mark Krumholz_, Research School of Astronomy and Astrophysics, Australian National University. Duration: May 2023 to <..continuing..>
 
 ## Academic Interests
 
@@ -17,4 +17,4 @@ I am an undergraduate at Indian Institute of Science
 * Cosmology
 
 ## Works
-
+_Nothing here yet, but coming soon_
