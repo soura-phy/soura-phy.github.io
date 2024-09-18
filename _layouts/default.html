@@ -21,6 +21,8 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
+        <p> {{ site.aboutme }} </p>
+
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
@@ -38,6 +40,13 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+
+        {% if site.navbar %}
+        <ul class="navbar">
+          <li><a href="./projects.md">Academic Projects</a></li>
+          <li><a href="./side-projects.md">Side Projects</a></li>
+          <li><a href="./publications.md">Published Works</a></li>
+        </ul>
       </header>
       <section>
 
