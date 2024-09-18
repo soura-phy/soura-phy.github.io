@@ -2,122 +2,39 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+I am a 5th-year undergraduate at Indian Institute of Science, Bengaluru, with a broad interest in theoretical and computational physics. I mainly work on high-energy astrophysics/astro-particle physics. I like computing stuff, as it makes the raw equations come into life in front of my eyes. Solving equations on a computer often motivates me to learn new physics concepts.
 
-There should be whitespace between paragraphs.
+## Education
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+* **Indian Institute of Science**, Bengaluru - Integrated BS-MS (Research) in Physics: 2020 - 2025(expected)
 
-# Header 1
+## Projects
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* ***Non-adiabatic wave propagation in dimer***. Supervisor: _Dr. Vivek Tiwari_, Solid State and Structural Chemistry Unit, Indian Institute of Science. Duration: May 2021 to May 2022
+* ***Dark matter decay and Positron annihilation in the Interstellar Medium***. Supervisor: _Prof. Mark Krumholz_, Research School of Astronomy and Astrophysics, Australian National University. Duration: May 2023 to July 2023
+*  ***Cosmological Non-Gaussianities and their associated soft limits***. Supervisor: _Dr. Rajeev Kumar Jain_, Department of Physics, Indian Institute of Science. Duration: August 2023 to April 2024.
 
-## Header 2
+## Side-Projects
+I have a few tiny demonstrations that I made while I was learning coding during my first few years of undergrad. Some more interesting demonstrations that I worked out as part of other projects are also listed. Maybe you will find one of them helpful or illuminating.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+* ***Neutrino Oscillations*** : A very basic demo on plotting analytical functions representing neutrino oscillations, but from a quantum mechanics perspective, without too much detail on the high-energy physics behind it. To put it briefly, neutrinos come in three flavors: electron-, muon- and tau-neutrinos, corresponding to the three generations of leptons. One of these can convert to the other via weak couplings in the standard model, the reason for these conversions being that the flavor states are not eigenstates of the mass. I show how the neutrino oscillation scenario changes when the initial state is either an electron-neutrino, a muon-neutrino or a tau-neutrino. Code can be found [here](https://github.com/soura-phy/neutrino-oscillations) (Jupyter Notebook)
+* ***Intermediate Axis Theorem*** : Another basic demo on the Intermediate Axis Theorem in Classical Mechanics. A general object (for example, a tennis racket) has three principal axes of rotation. Rotation about the axis with the smallest or the largest moment of inertia is stable, while that about the axis with intermediate moment of inertia (hence the name, intermediate axis) is unstable with respect to small perturbations along the other axes. This is also famously known as the 'Tennis Racket Theorem'. The code can be found [here](https://github.com/soura-phy/intermed-axis) (Mathematica Notebook)
+* ***Character Table*** : A useful concept in finite group theory is the calculation of character tables, which hold the characters (or traces) of the various irreducible representations of the group. One can read off various properties of a group simmply from the character table, such as which symmetries/transformations are represented by a group element, or which basis objects (such as basis vectors) correspond to a particular representation of the group. However, computing character tables from scratch is difficult. In my code, I show how the character table can be computed using basic principles of orthogonality. An example code can be found [here](https://github.com/iisc-ug-20/Group_Theory_for_Mathematica/blob/main/Finite%20Groups/C4v%20Character%20Table.nb) (Mathematica Notebook). Also see other notebooks in the folder for more examples. This and the next demonstration are part of the publication [arXiv:2408.01441](https://arxiv.org/abs/2408.01441) [physics.ed-ph]
+* ***Clebsch-Gordan coefficients*** : In the theory of compact groups, one often encounters Clesbch-Gordan coefficients which connect the basis of a direct product group with those of the factors. For example, a well-known such product is the tensorial relation \\(\frac{1}{2}\otimes\frac{1}{2}=0\oplus 1\\) for the SU(2) Lie algebra, which depicts how the addition of two spin-half (spinor) representations of the spin algebra gives rise to a scalar and a vector representation. I show how these spin-additions can be understood in terms of matrix representations, and how the Clebsch-Gordan coefficients arise from a transformation between two matrices. The code can be found [here](https://github.com/iisc-ug-20/Group_Theory_for_Mathematica/blob/main/Compact%20Groups/SU2_irreps.nb)
 
-### Header 3
+## Academic Interests
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* Theoretical and Computational Astrophysics
+* Theoretical High Energy Physics
+* High-Energy Astrophysics
+* Cosmology
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Published Works
+See my research profile on [INSPIRE](https://inspirehep.net/authors/2806415) / [Google Scholar](https://scholar.google.com/citations?user=tiRjT-wAAAAJ&hl=en&oi=ao)
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+* ***Group Theory in Physics : An Introduction with Mathematica***. Balasubramanian Ananthanarayan, **Souradeep Das**, Amitabha Lahiri, Suhas Sheikh, Sarthak Talukdar. _Eur. Phys. J. Spec. Top. (2024)_.  DOI: [10.1140/epjs/s11734-024-01245-9](https://doi.org/10.1140/epjs/s11734-024-01245-9), arXiv:[2408.01441](https://arxiv.org/abs/2408.01441) [physics.ed-ph]. The associated code can be found [here](https://github.com/iisc-ug-20/Group_Theory_for_Mathematica)
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## Contact
+I am currently working at CHEP, IISc. You can contact me via email: [soura2302@gmail.com](mailto:soura2302@gmail.com)
