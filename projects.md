@@ -9,13 +9,26 @@ description: A brief overview of the academic projects I did during my undergrad
 ## Academic Projects
 
 <dl>
-  
-<dt> ***Non-adiabatic wave propagation in dimer***</dt>
- <dd> Supervisor: _Dr. Vivek Tiwari_, Solid State and Structural Chemistry Unit, Indian Institute of Science. Duration: May 2021 to May 2022 </dd>
-<dt> ***Dark matter decay and Positron annihilation in the Interstellar Medium***</dt>
-  <dd> Supervisor: _Prof. Mark Krumholz_, Research School of Astronomy and Astrophysics, Australian National University. Duration: May 2023 to July 2023</dd>
-<dt> ***Cosmological Non-Gaussianities and their associated soft limits***</dt>
-  <dd> Supervisor: _Dr. Rajeev Kumar Jain_, Department of Physics, Indian Institute of Science. Duration: August 2023 to April 2024.</dd>
 
+<dt> Dark matter decay and Positron annihilation in the Interstellar Medium</dt>
+
+  <dd> Supervisors: <b>Prof. Mark Krumholz</b> and <b>Prof. Roland Crocker</b><br> Research School of Astronomy and Astrophysics, Australian National University.</dd>
+  <dd>Duration: May 2023 to July 2023</dd>
+  <dd></dd>
+  <dd><emph>Acknowledgment:</emph> Participating in this project was made possible due to the <a href="https://science.anu.edu.au/study/scholarships/future-research-talent-awards-india">Future Research Talent</a> award, a travel award by the Australian National University</dd>
+  
+<dt> Cosmological Non-Gaussianities and their associated soft limits</dt>
+
+  <dd> Supervisor: Prof. Rajeev Kumar Jain<br> Department of Physics, Indian Institute of Science.</dd>
+  <dd>Duration: August 2023 to April 2024.</dd>
+  <dd></dd>
+
+<dt> Non-adiabatic wave propagation in dimer</dt>
+
+ <dd> Supervisor: Prof. Vivek Tiwari<br> Solid State and Structural Chemistry Unit, Indian Institute of Science.</dd>
+ <dd> Duration: May 2021 to May 2022 </dd>
+ <dd></dd>
+
+ 
 </ul>
 
