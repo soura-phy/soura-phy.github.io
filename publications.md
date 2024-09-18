@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Published Works
+description: A list of publications (co-) authored by me
 ---
 
 ## Published Works
