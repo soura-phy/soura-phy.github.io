@@ -5,12 +5,6 @@
 
 </head>
 
----
-layout: default
-title: Side-Projects
-description: A brief description of projects apart from the ones posted on the Academic Projects page
----
-
 ## Side Projects
 
 I have a few tiny demonstrations that I made while I was learning coding during my first few years of undergrad. Some more interesting demonstrations that I worked out as part of other projects are also listed. Maybe you will find one of them helpful or illuminating.
