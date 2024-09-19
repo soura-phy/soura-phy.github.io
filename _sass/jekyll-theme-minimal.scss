@@ -27,13 +27,9 @@ h1, h2, h3 {
   line-height:1.1;
 }
 
-h1 {
-  font-size:28px;
-  color:#267cd9;
-}
 
 h2 {
-  color:#26b97c;
+  color:#b9267c;
 }
 
 h3, h4, h5, h6 {
@@ -41,7 +37,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#B9267C;
+  color:26b97c;
   text-decoration:none;
 }
 
@@ -59,6 +55,13 @@ a small {
 
 a:hover small {
   color:#777;
+}
+
+
+
+h1 {
+  font-size:36px;
+  color:#267cd9;
 }
 
 .wrapper {
