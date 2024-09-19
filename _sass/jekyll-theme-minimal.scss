@@ -37,7 +37,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:26b97c;
+  color:#007c52;
   text-decoration:none;
 }
 
@@ -103,6 +103,8 @@ th, td {
 dt {
   color:#444;
   font-weight:700;
+  list-style-type: disc;
+  display: list-item;
 }
 
 th {
