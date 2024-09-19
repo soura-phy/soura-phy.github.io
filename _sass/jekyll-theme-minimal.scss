@@ -2,6 +2,7 @@
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css2?family=MonteCarlo&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap');
+@import url("https://use.typekit.net/wkh1cgh.css");
 
 
 body {
@@ -14,7 +15,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Goudy Bookletter 1911', 'MonteCarlo', serif;
-  color:#137653;
+  color:#26b97c;
   margin:0 0 20px;
 }
 
@@ -28,10 +29,11 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+  color:#267cd9;
 }
 
 h2 {
-  color:#137653;
+  color:#26b97c;
 }
 
 h3, h4, h5, h6 {
