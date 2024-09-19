@@ -29,6 +29,3 @@ description: A brief overview of the academic projects I did during my undergrad
  <dd> Duration: May 2021 to May 2022 </dd>
  <dd></dd>
 
- 
-</ul>
-
