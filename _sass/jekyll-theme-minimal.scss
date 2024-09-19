@@ -1,6 +1,7 @@
 @import "fonts";
 @import "rouge-github";
 @import url('https://fonts.googleapis.com/css2?family=MonteCarlo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap');
 
 
 body {
@@ -12,7 +13,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'MonteCarlo', cursive;
+  font-family: 'MonteCarlo', sans-serif;
   color:#222;
   margin:0 0 20px;
 }
