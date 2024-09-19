@@ -1,5 +1,7 @@
 @import "fonts";
 @import "rouge-github";
+@import url('https://fonts.googleapis.com/css2?family=MonteCarlo&display=swap');
+
 
 body {
   background-color: #fff;
@@ -10,6 +12,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  font-family: 'MonteCarlo', cursive;
   color:#222;
   margin:0 0 20px;
 }
@@ -35,12 +38,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:#B9267C;
   text-decoration:none;
 }
 
 a:hover, a:focus {
-  color:#069;
+  color:#906;
   font-weight: bold;
 }
 
