@@ -28,6 +28,6 @@ description: A few slides that I used in talks
   <dd>Slides can be found <a href='SouradeepDas_BS_Presentation.pdf'> here</a> </dd>
 
 <dt> Dark Matter and Cosmology</dt>
-  <dd>This talk was given at _Ensemble_, the UG physics club at IISc</dd>
+  <dd>This talk was given at <i>Ensemble</i>, the UG physics club at IISc</dd>
   <dd>Slides can be found <a href='https://indianinstituteofscience-my.sharepoint.com/:p:/g/personal/souradeepdas_iisc_ac_in/ERtBQcS--JRMlXVrvp04_HoBZvNiosdocFpmUz9d0ordmw?e=49jVYV'> here</a> </dd>
 </dl>
