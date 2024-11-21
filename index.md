@@ -25,4 +25,4 @@ See my research profile on [INSPIRE](https://inspirehep.net/authors/2806415) / [
 
 
 ## Contact
-I am currently working at CHEP, IISc. You can contact me via email: [soura2302@gmail.com](mailto:soura2302@gmail.com)
+I am currently working on my master's dissertation at Center for High Energy Physics (CHEP), IISc. You can contact me via email: [soura2302@gmail.com](mailto:soura2302@gmail.com)
