@@ -7,3 +7,7 @@ navbar: true
 markdown: kramdown
 kramdown:
   math_engine: katex
+
+plugins:
+  - jekyll-git-metadata
+
