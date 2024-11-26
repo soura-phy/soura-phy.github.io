@@ -29,10 +29,12 @@ description: A few slides that I used in talks
 <dt> The Positron Puzzle</dt>
   <dd>This talk was given to a small group of undergraduates</dd>
   <dd>Slides can be found <a href='positrons_beamer.pdf'> here</a> </dd>
+  <dd>A recording of the talk can be found <a href='https://youtu.be/-3gbpVcsTlU?si=4IwXjVdfAu2dm8XZ'>here</a> (YouTube)</dd>
   
 <dt> Neutrino Oscillations</dt>
   <dd> This talk was given to a small group of undergraduates </dd>
   <dd>Slides can be found <a href='neutrino-ppt.pdf'> here</a> </dd>
+  <dd>A recording of the talk can be found <a href='https://youtu.be/YMHRtPWTN1E?si=xu_03Z0ecsyL7P-z'>here</a> (YouTube)</dd>
 
   
 </dl>
