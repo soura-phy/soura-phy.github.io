@@ -10,12 +10,22 @@ description: A brief overview of the academic projects I did during my undergrad
 
 <dl>
 
+
+<dt> Dark matter decay and Positron annihilation in the Interstellar Medium</dt>
+
+  <dd> Supervisor: <b>Prof. Ranjan Laha</b><br> Center for High Energy Physics, Indian Institute of Science.</dd>
+  <dd>Duration: August 2024 to present</dd>
+  <dd></dd>
+  
+
 <dt> Dark matter decay and Positron annihilation in the Interstellar Medium</dt>
 
   <dd> Supervisors: <b>Prof. Mark Krumholz</b> and <b>Prof. Roland Crocker</b><br> Research School of Astronomy and Astrophysics, Australian National University.</dd>
   <dd>Duration: May 2023 to July 2023</dd>
   <dd></dd>
   <dd><emph>Acknowledgment:</emph> Participating in this project was made possible due to the <a href="https://science.anu.edu.au/study/scholarships/future-research-talent-awards-india">Future Research Talent</a> award, a travel award by the Australian National University</dd>
+
+  
   
 <dt> Cosmological Non-Gaussianities and their associated soft limits</dt>
 
