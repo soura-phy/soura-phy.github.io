@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Slides
-permalink: /slides/
 description: A few slides that I used in talks
 ---
 
