@@ -11,7 +11,7 @@ description: A brief overview of the academic projects I did during my undergrad
 <dl>
 
 
-<dt> Dark matter decay and Positron annihilation in the Interstellar Medium</dt>
+<dt> Probing Dark Matter-Baryon Interactions using JWST Observations of Early Galaxies</dt>
 
   <dd> Supervisor: <b>Prof. Ranjan Laha</b><br> Center for High Energy Physics, Indian Institute of Science.</dd>
   <dd>Duration: August 2024 to present</dd>
