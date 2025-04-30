@@ -31,3 +31,9 @@ We would like to go with the easy method - perform an experiment, put upper limi
 Both of these effects reduce the possibility of forming dark matter halos in the early Universe. It turns out that the effect is more pronounced for dark matter halos with small masses, because their gravitational potential wells are 'too shallow' to hold enough interacting dark matter. On the other hand, larger halos are not affected too much by dark matter interactions. This immediately affects the number of small-mass (and hence, fainter) galaxies formed at a given point of time in the cosmological evolution. Observing the number density of galaxies at early times, such as those by the JWST, can tell us whether this 'suppression' of fainter galaxies is actually real. The observation of this suppression in faint galaxies would provide evidence for the existence of dark matter - Standard Model interactions. On the other hand, its non-observation would rule out the models where the interaction is sufficiently strong to cause an observable suppression, and hence put an upper bound on the interaction strength.
 
 This is what we seek to explore in this project, where we use data for distant galaxies observed by the JWST to put constraints on the interaction of dark matter with ordinary matter.
+
+## Details of the work
+Coming soon...
+
+## Guide to learn this work
+Coming soon...
