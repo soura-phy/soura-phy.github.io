@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: DM-baryon Interactions
 description: Probing Dark Matter-Baryon Interactions using JWST Observations of Early Galaxies
 ---
