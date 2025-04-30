@@ -11,11 +11,11 @@ description: A brief overview of the academic projects I did during my undergrad
 <dl>
 
 
-<dt> Probing Dark Matter-Baryon Interactions using JWST Observations of Early Galaxies</dt>
+<dt> <a href="projects/dm-baryon.html">Probing Dark Matter - Standard Model Interactions using JWST Observations of Early Galaxies</a></dt>
 
   <dd> Supervisor: <b>Prof. Ranjan Laha</b><br> Center for High Energy Physics, Indian Institute of Science.</dd>
   <dd>Duration: August 2024 to present</dd>
-  <dd></dd>
+  <dd> Understanding the nature of dark matter is one of the greatest unsolved mysteries in all of physics. In this project, we looked at dark matter interactions with Standard Model particles, which can potentially decrease the number density of galaxies at high redshifts, in the early stages of the Universe. We use the non-observation of such effects in high-redshift galaxy data from the James Webb Space Telescope (JWST) to put upper bounds on the interaction strength between dark matter and ordinary matter. <a href="projects/dm-baryon.html">[Read more...]</a> </dd>
   
 
 <dt> Dark matter decay and Positron annihilation in the Interstellar Medium</dt>
