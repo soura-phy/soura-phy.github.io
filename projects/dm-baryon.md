@@ -4,6 +4,13 @@ title: DM-baryon Interactions
 description: Probing Dark Matter-Baryon Interactions using JWST Observations of Early Galaxies
 ---
 
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.css" integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/katex.min.js" integrity="sha384-9Nhn55MVVN0/4OFx7EE5kpFBPsEMZxKTCnA+4fqDmg12eCTqGi6+BB2LjY8brQxJ" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.2/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>
+
+</head>
+
 ## Pretext
 
 [Dark matter](https://en.wikipedia.org/wiki/Dark_matter) is a hypothesized form of matter that is essential to our understanding of the Universe. Rotation velocities of stars in galaxies, motion of gas in galaxy clusters, and the existence of structures as we see on large scales, all require the existence of some form of matter beyond what we can 'see'. This form of matter, called 'dark matter', has no conclusive evidence yet. However, numerous experiments all across the globe are working to probe the properties of dark matter through astrophysical observations (also called [indirect detection](https://en.wikipedia.org/wiki/Indirect_detection_of_dark_matter) experiments), [direct detection](https://en.wikipedia.org/wiki/Direct_detection_of_dark_matter) experiments involving dark matter potentially scattering with a solid material, or in the form unaccounted energy losses in particle [colliders](https://en.wikipedia.org/wiki/Dark_matter#Collider_searches_for_dark_matter). 
