@@ -29,13 +29,13 @@ description: A brief overview of the academic projects I did during my undergrad
   
 <dt> Cosmological Non-Gaussianities and their associated soft limits</dt>
 
-  <dd> Supervisor: Prof. Rajeev Kumar Jain<br> Department of Physics, Indian Institute of Science.</dd>
-  <dd>Duration: August 2023 to April 2024.</dd>
+  <dd> <i>Supervisor:</i> Prof. <b>Rajeev Kumar Jain</b><br> Department of Physics, Indian Institute of Science.</dd>
+  <dd> <i>Duration:</i> August 2023 to April 2024.</dd>
   <dd></dd>
 
 <dt> Non-adiabatic wave propagation in dimer</dt>
 
- <dd> Supervisor: Prof. Vivek Tiwari<br> Solid State and Structural Chemistry Unit, Indian Institute of Science.</dd>
- <dd> Duration: May 2021 to May 2022 </dd>
+ <dd> <i>Supervisor:</i> Prof. Vivek Tiwari<br> Solid State and Structural Chemistry Unit, Indian Institute of Science.</dd>
+ <dd> <i>Duration:</i> May 2021 to May 2022 </dd>
  <dd></dd>
 
