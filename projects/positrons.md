@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 511 keV
-description: Relaxed Constraints on Positrons Contributing to the Galactic Annihilation Signal
+description: The 511 keV line in the Galaxy
 ---
 
 
@@ -17,6 +17,8 @@ description: Relaxed Constraints on Positrons Contributing to the Galactic Annih
 The inner regions of the Milky Way Galaxy, when observed in low-energy gamma-rays, reveals a sharp emission line at photon energy 511 keV, which has been observed since the 1970s. A closer look at the energy tells you that it is exactly the mass of an electron. In fact, we know that the 511 keV line in the galaxy is caused because low-energy positrons 'annihilate' with low-energy electrons in the Interstellar Medium (ISM) to produce a pair of gamma-ray photons, each of energy 511 keV. The estimated number of such annihilation events in the Milky Way Galaxy is \\(5\times 10^{43}\\) every second. In more meaningful units, this corresponds to an energy emission that is 10,000 times as compared to that by the Sun.
 
 This enormous annihilation rate also means that an incredibly large number of positrons are produced in the Galaxy (the number of electrons is not a problem, given that most of ordinary matter contains electrons) every second. Identifying such sources astrophysically is difficult, not just because the rate is so high, but also because the emission comes from a completely unexpected region. While most of the suspected sources of positrons reside in the planar disk of the Galaxy, a significant amount of 511 keV emission is produced by a roughly spherical region called the 'bulge' that extends both above and below the disk.
+
+![Morphology of 511 keV line](https://cdn.sci.esa.int/documents/33682/35393/1567217963403-POMFeb2008_410.jpg)
 
 The most plausible source of positrons in the interstellar medium is \\(\beta\\)-decay of radioactive nuclei, which are produced in stellar explosions such as supernovae. However, one would expect supernovae to have occured at places where stars are, because afterall they are end-products of massive stars. Most of the star-formation activity of the Milky Way takes place in the Galactic disk, which should then be expected to be the main region of positron annihilation. Now, although most of the 511 keV emission in the Galactic disk can be explained using positrons from supernovae, emission of 511 keV from the bulge (which contributes to nearly 40% of the total emission) evades such an explanation because of the lack of strong supernova activity in the bulge. It is worthwhile to note that the bulge is populated mostly by some of the oldest remaining stars in the Galaxy.
 
