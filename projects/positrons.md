@@ -47,4 +47,12 @@ There is, however, a strong constraint associated with positron production from 
 
 ## Details of the work
 
-## Guide to learn this work
+## More about this project
+
+I started doing this project after I completed third year of my undergraduate studies. I had received the Future Research Talent award from the Australian National University. This was the first time since COVID that the program was open for students in-person. I applied through my University, Indian Institute of Science, and got selected for the award, along with 7 others from my institute and nearly 100 from other Universities across India and Indonesia. I was working at the Mount Stromlo Observatory near Canberra, Australia, a 30-minute drive from the city center. The observatory had been burned in wildfires, but is now the home of the Research School of Astronomy and Astrophysics of the University. 
+
+I worked for 3 months as a visitor at the Observatory under the supervision of Prof. Mark Krumholz and Prof. Roland Crocker. This was the very first project where I got to work with real astrophysical data. Some of the skills and resources that helped me in this project are as follows:
+* **Coding:** I had a preliminary knowledge of python, for example, plotting, matrix calculations and a little bit of statistics. I had to learn a whole lot of new concepts, which included running scripts, parallel computing, advanced statistics, interpolation etc. A particularly useful programming feature that immensely helped with analysing large datasets was Object-Oriented Programming.
+* **Data science:** Several concepts from data science and statistics were useful in the work. To name a few: Bayesian likelihood analysis, which I used in order to obtain constraints on various fitting parameters of a model based on data that the model tries to fit; The concept of posteriors and priors; Statistical tests and criteria to fit models, such as AIC (Akaike Information Criterion), Bayes factors etc.
+
+
