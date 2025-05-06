@@ -36,7 +36,7 @@ Researchers have also attempted to explain this anomaly using models beyond know
 <figure style="text-align: center;">
   <img src="https://journals.aps.org/prl/article/10.1103/PhysRevLett.94.171301/figures/2/medium" alt="Constraint on injection energy of positrons" style="max-width: 70%; height: auto;">
   <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
-    Gamma-ray continuum emission from high-energy positrons would over-produce the observed continuum emission if the positrons were injected at very high energies. This can be used to put an upper limit on the injection energy of positrons at a few MeV. Credits: [Beacom, Bell and Bertone (2005)](https://arxiv.org/abs/astro-ph/0409403)
+    Gamma-ray continuum emission from high-energy positrons would over-produce the observed continuum emission if the positrons were injected at very high energies. This can be used to put an upper limit on the injection energy of positrons at a few MeV. Credits: <a href="https://arxiv.org/abs/astro-ph/0409403">Beacom, Bell and Bertone (2005)</a>
   </figcaption>
 </figure>
 
