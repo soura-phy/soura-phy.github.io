@@ -19,6 +19,13 @@ While none of these experiments have revealed a solid evidence for dark matter, 
 
 ## Cosmology
 
+<figure style="text-align: center;">
+  <img src="https://cdn.eso.org/images/screen/eso1620a.jpg" style="max-width: 100%; height: auto;">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+    Stages in the evolution of the Universe, from a late-Universe perspective. Credits: <a href="https://www.eso.org/public/images/eso1620a/">ESO / NAOJ</a>
+  </figcaption>
+</figure>
+
 Why is dark matter crucial to the existence of galaxies? First of all, recall what galaxies essentially are. They are regions of space where matter is denser as compared to the background Universe. For comparison, the density of ordinary matter in the plane of our Galaxy is nearly 1 proton per cubic centimeter, while that in the background Universe is roughly 1 per every cubic meter. A difference of 6 orders of magnitude! On the other hand, we have an idea of how large these difference was in the early Universe - from the [Cosmic Microwave Background (CMB)](https://en.wikipedia.org/wiki/Cosmic_microwave_background) radiation. The tiny fluctuations that we see in this radiation field, produced when the Universe was just a few hundred thousand years old, are incredibly small - 1 part in \\(10^5\\). Going from these almost inconceivable fluctuations to the variety of dense structures like galaxies is what has motivated cosmologists to come up with a theory of structure formation. In this theory, these tiny over-densities produced in the early Universe undergo a process of 'gravitational collapse' - they crumble under their own gravity to form what we call galaxies.
 
 Where does dark matter come into all of this? As it turns out, ordinary matter interacts with radiation (such as electromagnetic radiation of different frequencies) and faces a [radiation pressure](https://en.wikipedia.org/wiki/Radiation_pressure). This pressure tends to prevent collapse into denser structures. On the other hand, if we include in our theory of structure formation a form of matter devoid of pressure, we increase the strength of gravity without adding extra pressure. Then we can proceed happily with collapsing these minute overdensities into something cosmologists call 'halos' of matter. The visible part of our Milky Way Galaxy (and other galaxies we have seen) sits near the center of a larger halo of dark matter. This theory of gravitational collapse and growth of structures is highly successful in reproducing observations of the Universe at the largest length scales. Since dark matter in this theory does not have a significant pressure, it is termed 'Cold Dark Matter' (CDM).
