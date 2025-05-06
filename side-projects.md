@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Side Projects
+title: Other Projects
 description: A brief description of projects/demonstrations that I have on my GitHub profile, apart from those listed at the Academic Projects page.
 ---
 
@@ -12,9 +12,9 @@ description: A brief description of projects/demonstrations that I have on my Gi
 
 </head>
 
-## Side Projects
+## Other Projects
 
-I have a few tiny demonstrations that I made while I was learning coding during my first few years of undergrad. Some more interesting demonstrations that I worked out as part of other projects are also listed. Maybe you will find one of them helpful or illuminating.
+I have a few demonstrations that I made while I was learning coding during my undergrad studies. Some more interesting demonstrations that I worked out as part of other projects are also listed. Maybe you will find one of them helpful or illuminating.
 
 * ***Neutrino Oscillations*** : A very basic demo on plotting analytical functions representing neutrino oscillations, but from a quantum mechanics perspective, without too much detail on the high-energy physics behind it. To put it briefly, neutrinos come in three flavors: electron-, muon- and tau-neutrinos, corresponding to the three generations of leptons. One of these can convert to the other via weak couplings in the standard model, the reason for these conversions being that the flavor states are not eigenstates of the mass. I show how the neutrino oscillation scenario changes when the initial state is either an electron-neutrino, a muon-neutrino or a tau-neutrino. Code can be found [here](https://github.com/soura-phy/neutrino-oscillations) (Jupyter Notebook). I also have a few slides on the topic, describing the work done in the code. Slides can be found [here](neutrino-ppt.pdf)
 * ***Intermediate Axis Theorem*** : Another basic demo on the Intermediate Axis Theorem in Classical Mechanics. A general object (for example, a tennis racket) has three principal axes of rotation. Rotation about the axis with the smallest or the largest moment of inertia is stable, while that about the axis with intermediate moment of inertia (hence the name, intermediate axis) is unstable with respect to small perturbations along the other axes. This is also famously known as the 'Tennis Racket Theorem'. The code can be found [here](https://github.com/soura-phy/intermed-axis) (Mathematica Notebook)
