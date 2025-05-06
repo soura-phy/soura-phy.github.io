@@ -18,7 +18,12 @@ The inner regions of the Milky Way Galaxy, when observed in low-energy gamma-ray
 
 This enormous annihilation rate also means that an incredibly large number of positrons are produced in the Galaxy (the number of electrons is not a problem, given that most of ordinary matter contains electrons) every second. Identifying such sources astrophysically is difficult, not just because the rate is so high, but also because the emission comes from a completely unexpected region. While most of the suspected sources of positrons reside in the planar disk of the Galaxy, a significant amount of 511 keV emission is produced by a roughly spherical region called the 'bulge' that extends both above and below the disk.
 
-![Morphology of 511 keV line](https://cdn.sci.esa.int/documents/33682/35393/1567217963403-POMFeb2008_410.jpg)
+<figure style="text-align: center;">
+  <img src="https://cdn.sci.esa.int/documents/33682/35393/1567217963403-POMFeb2008_410.jpg" alt="Morphology of 511 keV line" style="max-width: 100%; height: auto;">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+    Morphology of the 511 keV line emission in the Milky Way Galaxy. Credits: <a href = "https://cdn.sci.esa.int/documents/33682/35393/1567217963403-POMFeb2008_410.jpg">ESA</a> (G. Weidenspointner et al.).
+  </figcaption>
+</figure>
 
 The most plausible source of positrons in the interstellar medium is \\(\beta\\)-decay of radioactive nuclei, which are produced in stellar explosions such as supernovae. However, one would expect supernovae to have occured at places where stars are, because afterall they are end-products of massive stars. Most of the star-formation activity of the Milky Way takes place in the Galactic disk, which should then be expected to be the main region of positron annihilation. Now, although most of the 511 keV emission in the Galactic disk can be explained using positrons from supernovae, emission of 511 keV from the bulge (which contributes to nearly 40% of the total emission) evades such an explanation because of the lack of strong supernova activity in the bulge. It is worthwhile to note that the bulge is populated mostly by some of the oldest remaining stars in the Galaxy.
 
