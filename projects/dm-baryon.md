@@ -17,6 +17,13 @@ description: Probing Dark Matter-Baryon Interactions using JWST Observations of 
 
 While none of these experiments have revealed a solid evidence for dark matter, we know how crucial dark matter is to our own existence. In fact, galaxies such as our Milky Way would not have formed in the first place if dark matter was not there to hold the matter together. Similarly, recent observations using some of the most powerful telescopes, for example the [James Webb Space Telescope (JWST)](https://science.nasa.gov/mission/webb/) that was launched back in 2021, have found numerous galaxies in the very, very distant Universe. These galaxies are so far away from us that the light from them takes billions of years to reach our telescopes. This means that many of these galaxies were formed when the Universe was a few hundred million years old, which is just 2% of its current age, 14 billion years. The existence and characterization of these galaxies is a great test of dark matter properties. This is the general principle that forms the backbone of this project.
 
+<figure style="text-align: center;">
+  <img src="https://stsci-opo.org/STScI-01GKT0NTSMXD8N3P5V68ZT8VG6.png" style="max-width: 100%; height: auto;">
+  <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
+    Farthest galaxies seen by the JWST. Credits: <a href="https://stsci-opo.org/STScI-01GKT0NTSMXD8N3P5V68ZT8VG6.png">JWST</a>
+  </figcaption>
+</figure>
+
 ## Cosmology
 
 <figure style="text-align: center;">
