@@ -34,9 +34,9 @@ There have been several attempts to explain the observed excess of 511 keV emiss
 Researchers have also attempted to explain this anomaly using models beyond known astrophysical sources. One such model includes annihilation or decay of dark matter particles into electron-positron pairs, given that the mass of this dark matter particle is sufficiently higher than the electron mass. Similarly, Hawking evaporation of black holes with masses around \\(10^{16}\\) g (also called primordial black holes because black holes of these masses cannot be produced by stellar collapse, since stars are way heavier than this mass) can produce positrons in sufficiently high numbers in the bulge. Similarly, a dark matter particle transitioning to its ground state from an excited state can produce positrons and electrons from the emitted energy, if the energy gap is again large enough. The distribution of dark matter in the Galaxy is expected to be shaped roughly like the Galactic bulge, and hence these models have been invoked to explain the 511 keV line in the bulge.
 
 <figure style="text-align: center;">
-  <img src="https://journals.aps.org/prl/article/10.1103/PhysRevLett.94.171301/figures/2/medium" alt="Constraint on injection energy of positrons" style="max-width: 100%; height: auto;">
+  <img src="https://journals.aps.org/prl/article/10.1103/PhysRevLett.94.171301/figures/2/medium" alt="Constraint on injection energy of positrons" style="max-width: 70%; height: auto;">
   <figcaption style="font-size: 0.9em; color: #555; margin-top: 0.5em;">
-    \\(\gamma\\)-ray continuum emission from high-energy positrons would over-produce the observed continuum emission if the positrons were injected at very high energies. This can be used to put an upper limit on the injection energy of positrons at a few MeV. Credits: [Beacom, Bell and Bertone (2005)](https://arxiv.org/abs/astro-ph/0409403)
+    Gamma-ray continuum emission from high-energy positrons would over-produce the observed continuum emission if the positrons were injected at very high energies. This can be used to put an upper limit on the injection energy of positrons at a few MeV. Credits: [Beacom, Bell and Bertone (2005)](https://arxiv.org/abs/astro-ph/0409403)
   </figcaption>
 </figure>
 
