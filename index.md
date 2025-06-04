@@ -29,7 +29,7 @@ More information about these projects are available on the <a href='projects.htm
 ## Published Works
 See my research profile on [INSPIRE](https://inspirehep.net/authors/2806415) / [Google Scholar](https://scholar.google.com/citations?user=tiRjT-wAAAAJ&hl=en&oi=ao)
 
-* ***Relaxation of Energy Constraints for Positrons Generating the Galactic Annihilation Signal***. **Souradeep Das**, Mark R. Krumholz, Roland M. Crocker, Thomas Siegert, Laura Eisenberger. arXiv:[2506.00847](https://arxiv.org/abs/2506.00847) [astro-ph.HE].
+* ***Relaxation of Energy Constraints for Positrons Generating the Galactic Annihilation Signal***.<br> **Souradeep Das**, Mark R. Krumholz, Roland M. Crocker, Thomas Siegert, Laura Eisenberger. arXiv:[2506.00847](https://arxiv.org/abs/2506.00847) [astro-ph.HE].
 
 
 ## Contact
