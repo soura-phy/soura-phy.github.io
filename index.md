@@ -6,9 +6,9 @@ description: Undergraduate at Indian Institute of Science
 
 <h2>About myself</h2>
 
-I am a 5th-year undergraduate at Indian Institute of Science, Bengaluru, with a broad interest in Physics. I am pursuing the <a href='https://bs-ug.iisc.ac.in/'>BS-MS program</a> at the IISc.
+I am a first-year PhD student at the Ohio State University. I work on theoretical astrophysics, cosmology and astroparticle physics. I joined the PhD program at OSU Department of Physics, starting August 2025.
 
-I joined the IISc in 2020 after completing 12th grade. My primary interest is in astrophysics, especially astroparticle physics and cosmology. I have taken undergraduate and graduate-level courses in astrophysics, cosmology, and high-energy physics. Besides, I have been involved in astroparticle physics and cosmology research for the last two years. I will be joining the Ohio State University in August 2025, as a graduate student in the Department of Physics.
+I completed my undergraduate and master's studies at Indian Institute of Science in Bengaluru, India. I graduated with BS and MS degree in 2025, with a major in Physics. My primary interest is in astrophysics, especially astroparticle physics and cosmology. I have taken undergraduate and graduate-level courses in astrophysics, cosmology, and high-energy physics. Besides, I have been involved in astroparticle physics and cosmology research for the last two years. 
 
 <h2>What I work on</h2>
 
@@ -33,4 +33,4 @@ See my research profile on [INSPIRE](https://inspirehep.net/authors/2806415) / [
 
 
 ## Contact
-I am currently working on my master's dissertation at Center for High Energy Physics (CHEP), IISc. You can contact me via email: [soura2302@gmail.com](mailto:soura2302@gmail.com)
+I am currently in Columbus, Ohio, US. You can contact me via email: [soura2302@gmail.com](mailto:soura2302@gmail.com)
