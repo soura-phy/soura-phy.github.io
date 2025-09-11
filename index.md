@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Souradeep Das
-description: Undergraduate at Indian Institute of Science
+description: Graduate student at Ohio State University
 ---
 
 <h2>About myself</h2>
