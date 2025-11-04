@@ -17,7 +17,8 @@ My first project at IISc was on transitions in dimers, which introduced me to pr
 More information about these projects are available on the <a href='projects.html'>Projects</a> page
 
 ## Education
-* **Indian Institute of Science, Bengaluru** - Master of Science in Physics: 2024-2025 (expected)
+* **Ohio State University, Columbus OH** - Doctor of Philosophy: 2025 - present
+* **Indian Institute of Science, Bengaluru** - Master of Science in Physics: 2024-2025
 * **Indian Institute of Science, Bengaluru** - Bachelor of Science (Research) in Physics: 2020-2024
 
 ## Academic Interests
