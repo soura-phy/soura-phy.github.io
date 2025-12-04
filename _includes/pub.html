@@ -1,0 +1,15 @@
+<li class="publication">
+  <span class="pub-title">
+    {{ include.title }}
+  </span>
+  <br>
+  <span class="pub-authors">
+    {{ include.authors | replace: "Souradeep Das", "<span class='my-name'>Souradeep Das</span>" }}
+  </span>.
+  <span class="pub-arxiv">
+    arXiv:
+    <a href="https://arxiv.org/abs/{{ include.arxiv }}">
+      {{ include.arxiv }}
+    </a>
+  </span>
+</li>
