@@ -31,11 +31,11 @@ More information about these projects are available on the <a href='projects.htm
 See my research profile on [INSPIRE](https://inspirehep.net/authors/2806415) / [Google Scholar](https://scholar.google.com/citations?user=tiRjT-wAAAAJ&hl=en&oi=ao)
 
 <ul>
-<li> {% include pub.html
+{% include pub.html
    title="Dark Secrets of Baryons: Illuminating Dark Matter-Baryon Interactions with JWST"
    arxiv="2511.02906"
    authors="Souradeep Das, Ranjini Mondol, Abhijeet Singh, Ranjan Laha"%}
-<li> {% include pub.html
+{% include pub.html
    title="Relaxation of Energy Constraints for Positrons Generating the Galactic Annihilation Signal"
    arxiv="2506.00847"
    authors="Souradeep Das, Mark R. Krumholz, Roland M. Crocker, Thomas Siegert, Laura Eisenberger"%}
