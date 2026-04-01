@@ -6,7 +6,7 @@ description: A list of publications (co-) authored by me
 
 ## Published Works and Pre-prints
 
-* ***Dark Secrets of Baryons: Illuminating Dark Matter-Baryon Interactions with JWST*** <br> **Souradeep Das**, Ranjini Mondol, Abhijeet Singh, Ranjan Laha. arXiv:[2511.02906](https://arxiv.org/abs/2511.02906) [hep-ph].
+* ***Dark Secrets of Baryons: Illuminating Dark Matter-Baryon Interactions with JWST*** <br> **Souradeep Das**, Ranjini Mondol, Abhijeet Singh, Ranjan Laha. _Phys. Rev. Lett. (2026)_. DOI: [10.1103/44nx-sgk4](https://doi.org/10.1103/44nx-sgk4), arXiv:[2511.02906](https://arxiv.org/abs/2511.02906) [hep-ph].
 
 * ***Relaxation of Energy Constraints for Positrons Generating the Galactic Annihilation Signal***<br> **Souradeep Das**, Mark R. Krumholz, Roland M. Crocker, Thomas Siegert, Laura Eisenberger. arXiv:[2506.00847](https://arxiv.org/abs/2506.00847) [astro-ph.HE].
 
