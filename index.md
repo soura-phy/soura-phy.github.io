@@ -32,10 +32,20 @@ See my research profile on [INSPIRE](https://inspirehep.net/authors/2806415) / [
 
 <ul>
 {% include pub.html
-   title="Dark Secrets of Baryons: Illuminating Dark Matter-Baryon Interactions with JWST"
-   DOI="10.1103/44nx-sgk4"
-   arxiv="2511.02906"
-   authors="Souradeep Das, Ranjini Mondol, Abhijeet Singh, Ranjan Laha"%}
+   @article{44nx-sgk4,
+  title = {Dark Secrets of Baryons: Illuminating Dark Matter--Baryon Interactions with JWST},
+  author = {Das, Souradeep and Mondol, Ranjini and Singh, Abhijeet and Laha, Ranjan},
+  journal = {Phys. Rev. Lett.},
+  volume = {137},
+  issue = {1},
+  pages = {011002},
+  numpages = {15},
+  year = {2026},
+  month = {Jun},
+  publisher = {American Physical Society},
+  doi = {10.1103/44nx-sgk4},
+  url = {https://link.aps.org/doi/10.1103/44nx-sgk4}
+}
 {% include pub.html
    title="Relaxation of Energy Constraints for Positrons Generating the Galactic Annihilation Signal"
    arxiv="2506.00847"
