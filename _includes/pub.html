@@ -3,19 +3,36 @@
     {{ include.title }}
   </span>
   <br>
+
   <span class="pub-authors">
     {{ include.authors | replace: "Souradeep Das", "<span class='my-name'>Souradeep Das</span>" }}
   </span>.
-  <span class="pub-arxiv">
-    arXiv:
-    <a href="https://arxiv.org/abs/{{ include.arxiv }}">
-      {{ include.arxiv }}
-    </a>
-  </span>
-  <span class="pub-DOI">
-    DOI:
-    <a href="https://doi.org/{{ include.DOI }}">
-      {{ include.DOI }}
-    </a>
-  </span>
+
+  {% if include.journal %}
+    <span class="pub-journal">
+      <em>{{ include.journal }}</em>
+      {% if include.volume %}<strong>{{ include.volume }}</strong>{% endif %}
+      {% if include.issue %}({{ include.issue }}){% endif %}
+      {% if include.pages %}, {{ include.pages }}{% endif %}
+      {% if include.year %} ({{ include.year }}){% endif %}.
+    </span>
+  {% endif %}
+
+  {% if include.arxiv %}
+    <span class="pub-arxiv">
+      arXiv:
+      <a href="https://arxiv.org/abs/{{ include.arxiv }}">
+        {{ include.arxiv }}
+      </a>.
+    </span>
+  {% endif %}
+
+  {% if include.DOI %}
+    <span class="pub-doi">
+      DOI:
+      <a href="https://doi.org/{{ include.DOI }}">
+        {{ include.DOI }}
+      </a>
+    </span>
+  {% endif %}
 </li>
