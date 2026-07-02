@@ -32,7 +32,6 @@ See my research profile on [INSPIRE](https://inspirehep.net/authors/2806415) / [
 
 <ul>
 {% include pub.html
-   @article{44nx-sgk4,
   title = {Dark Secrets of Baryons: Illuminating Dark Matter--Baryon Interactions with JWST},
   author = {Das, Souradeep and Mondol, Ranjini and Singh, Abhijeet and Laha, Ranjan},
   journal = {Phys. Rev. Lett.},
