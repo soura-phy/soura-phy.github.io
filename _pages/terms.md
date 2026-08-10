@@ -1,11 +1,15 @@
 ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
-modified: 2016-06-06
+modified: 2026-08-10
 ---
 
 {% include base_path %}
 {% include toc %}
+
+## Note from me
+
+Everything else in this page comes automatically from the original repo [Academic Pages](https://github.com/academicpages/academicpages.github.io). I didn't write any of the following sentences :)
 
 ## Privacy Policy
 
