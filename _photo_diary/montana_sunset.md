@@ -7,11 +7,12 @@ tags:
   - Montana
   - Sunset
   - Travel
-gallery:
-  - image_path: /images/photo_diary/montana_sunset.jpg
-    title: "Sunset in Montana"
+# gallery:
+#   - image_path: /images/photo_diary/montana_sunset.jpg
+#     title: "Sunset in Montana"
 #   - image_path: /images/photo-diary/chicago/02.jpg
 #     title: "Along the river"
 ---
+![Montana sunset](/images/photo_diary/montana_sunset.jpg)
 
 Photo taken on the way to Glacier National Park. August 2026.
