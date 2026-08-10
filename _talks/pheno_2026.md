@@ -8,4 +8,4 @@ date: 2026-05-12
 location: "University of Pittsburgh, Pittsburgh, PA, USA"
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+Delivered a parallel session talk on my publication with the same title at [PHENO 2026](https://indico.global/event/16413/contributions/153842/)

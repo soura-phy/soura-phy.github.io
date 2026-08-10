@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=tiRjT-wAAAAJ&view_op=list_works"
   inspire-hep      : "https://inspirehep.net/authors/2806415?ui-citation-summary=true"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0006-3276-551X"
+  # orcid            : "https://orcid.org/0009-0006-3276-551X"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "souradeepdas"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

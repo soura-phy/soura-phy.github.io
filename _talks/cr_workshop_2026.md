@@ -8,4 +8,4 @@ date: 2026-05-19
 location: "CCAPP, Ohio State University, Columbus, OH, USA"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Delivered a talk on my publication with the same title at the [CCAPP Cosmic Ray Transport Workshop](https://ccapp.osu.edu/archive-workshops/cosmic-ray-transport-workshop).
