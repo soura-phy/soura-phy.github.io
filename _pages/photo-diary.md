@@ -6,3 +6,4 @@ collection: photo_diary
 entries_layout: grid
 classes: wide
 ---
+
