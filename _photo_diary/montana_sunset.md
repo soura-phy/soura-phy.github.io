@@ -8,7 +8,7 @@ tags:
   - Sunset
   - Travel
 gallery:
-  - image_path: /images/photo-diary/montana_sunset.jpg
+  - image_path: /images/photo_diary/montana_sunset.jpg
     title: "Sunset in Montana"
 #   - image_path: /images/photo-diary/chicago/02.jpg
 #     title: "Along the river"
