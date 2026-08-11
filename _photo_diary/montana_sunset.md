@@ -7,6 +7,8 @@ tags:
   - Montana
   - Sunset
   - Travel
+header:
+  image: /images/photo-diary/montana_sunset.jpg
 # gallery:
 #   - image_path: /images/photo_diary/montana_sunset.jpg
 #     title: "Sunset in Montana"
