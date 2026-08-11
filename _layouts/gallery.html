@@ -19,15 +19,15 @@ layout: default
 
           <a href="{{ post.url | relative_url }}">
 
-            {% if post.header.image %}
+            {% if post.thumbnail %}
               <img
-                src="{{ post.header.image | relative_url }}"
+                src="{{ post.thumbnail | relative_url }}"
                 alt="{{ post.title }}"
+                loading="lazy"
               >
             {% endif %}
 
             <div class="photo-diary-card__text">
-
               <h2>{{ post.title }}</h2>
 
               {% if post.location %}
@@ -41,7 +41,6 @@ layout: default
                   {{ post.date | date: "%B %Y" }}
                 </p>
               {% endif %}
-
             </div>
 
           </a>
