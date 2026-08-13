@@ -1,9 +1,7 @@
 ---
 title: "Photo Diary"
 permalink: /photo-diary/
-layout: archive
-collection: photo_diary
-entries_layout: grid
+layout: single
 classes: wide
 author_profile: true
 redirect_from:
@@ -11,3 +9,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<div class="grid__wrapper">
+  {% for post in site.photo_diary %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
