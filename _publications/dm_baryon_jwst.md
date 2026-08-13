@@ -5,8 +5,9 @@ category: manuscripts
 permalink: /publication/dm_baryon_jwst
 excerpt: 'Using observations of early galaxies by JWST to probe early-Universe interactions between dark matter and baryons'
 date: 2026-06-30
+stage: 'published'
 venue: 'Physical Review Letters'
-# slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
+arxivurl: 'https://arxiv.org/abs/2511.02906'
 paperurl: 'https://journals.aps.org/prl/abstract/10.1103/44nx-sgk4'
 citation: '<b>Souradeep Das</b>, Ranjini Mondol, Abhijeet Singh, Ranjan Laha (2026). &quot;Dark Secrets of Baryons: Illuminating Dark Matter-Baryon Interactions with JWST&quot;  <i>Phys. Rev. Lett.</i>, <b>137</b>, 011002.'
 ---
