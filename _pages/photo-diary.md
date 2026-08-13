@@ -18,7 +18,8 @@ redirect_from:
     margin-top: 20px;
   }
   .photo-card {
-    border: 1px solid #e2e8f0;
+    /* Use theme variables for automatic dark/light mode switching */
+    border: 1px solid var(--global-border-color, #e2e8f0);
     border-radius: 8px;
     overflow: hidden;
     text-decoration: none !important;
@@ -26,11 +27,20 @@ redirect_from:
     transition: transform 0.2s ease, box-shadow 0.2s ease;
     display: flex;
     flex-direction: column;
-    background: #fff;
+    background-color: var(--global-theme-color, #ffffff);
   }
+  
+  /* Fallback override for explicit dark-mode class setups */
+  html[data-theme="dark"] .photo-card,
+  body.dark-mode .photo-card,
+  .dark .photo-card {
+    background-color: rgba(255, 255, 255, 0.05);
+    border-color: rgba(255, 255, 255, 0.15);
+  }
+
   .photo-card:hover {
     transform: translateY(-4px);
-    box-shadow: 0 6px 16px rgba(0,0,0,0.1);
+    box-shadow: 0 6px 16px rgba(0,0,0,0.2);
   }
   .photo-card img {
     width: 100%;
@@ -45,11 +55,12 @@ redirect_from:
     font-weight: bold;
     display: block;
     font-size: 1rem;
-    color: #222;
+    color: var(--global-text-color, inherit);
   }
   .photo-card-date {
     font-size: 0.85rem;
-    color: #666;
+    color: var(--global-text-color-light, #888);
+    opacity: 0.8;
   }
 </style>
 
