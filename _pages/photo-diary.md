@@ -1,14 +1,13 @@
 ---
 title: "Photo Diary"
 permalink: /photo-diary/
-layout: gallery
-# collection: photo_diary
-# entries_layout: grid
+layout: archive
+collection: photo_diary
+entries_layout: grid
 classes: wide
 author_profile: true
 redirect_from:
-    - /photos
+  - /photos
 ---
-
 
 {% include base_path %}
